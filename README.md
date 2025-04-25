@@ -1,4 +1,4 @@
-<h2 align="left">How's it going? 👋 I'm Sebastián<br>I'm currently studying Systems Engineering🎓</h2>
+<h2 align="left">How's it going?  I'm Sebastián<br>I'm currently studying Systems Engineering🎓</h2>
 
 ###
 
