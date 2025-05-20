@@ -59,8 +59,8 @@
 ## 📫 Contacto
 
 <div align="center">
-  <a href="mailto:sebasmendeza09@gmail.com">📧 Email</a> |
-  <a href="https://github.com/Servas20900">🐱 GitHub</a>
+  <a href="mailto:sebasmendeza09@gmail.com"> Email</a> |
+  <a href="https://github.com/Servas20900"> GitHub</a>
 </div>
 
 ---
