@@ -1,6 +1,5 @@
 <h2 align="left">How's it going?  I'm Sebastián<br>I'm currently studying Systems Engineering🎓</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313wy2pi2llkvakprktjlnxmudxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ###
 
@@ -61,4 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
+###
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313wy2pi2llkvakprktjlnxmudxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 ###
