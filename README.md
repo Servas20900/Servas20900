@@ -46,7 +46,7 @@
 
 ---
 
-## 🎵 Lo que escucho en Spotify
+## 🎵 Spotify
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
