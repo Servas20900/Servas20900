@@ -1,5 +1,7 @@
 <h2 align="left">How's it going?  I'm Sebastián<br>I'm currently studying Systems Engineering🎓</h2>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313wy2pi2llkvakprktjlnxmudxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ###
 
 <div align="center">
@@ -57,14 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/313wy2pi2llkvakprktjlnxmudxq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313wy2pi2llkvakprktjlnxmudxq&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
