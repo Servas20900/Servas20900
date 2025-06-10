@@ -4,7 +4,7 @@
 <h3 align="center">Estudiante de Ingeniería en Sistemas </h3>
 
 <p align="center">
-  Apasionado por la tecnología, el desarrollo web y el aprendizaje constante.
+  Apasionado por la tecnología, el desarrollo web.
 </p>
 
 ---
