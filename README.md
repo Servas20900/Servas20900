@@ -3,9 +3,7 @@
 <h1 align="center">Hola, soy Sebastián 👋</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas </h3>
 
-<p align="center">
-  Apasionado por la tecnología, el desarrollo web.
-</p>
+
 
 ---
 
