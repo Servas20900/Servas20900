@@ -1,6 +1,6 @@
 <!-- Perfil de GitHub de Sebastián -->
 
-<h1 align="center">Hola, soy Sebastián 👋</h1>
+<h1 align="center">Hola, soy Sebastián </h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas </h3>
 
 
