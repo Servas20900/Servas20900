@@ -8,7 +8,7 @@
 ---
 
 
-## 🧠 Tecnologías que uso
+##  Tecnologías que uso
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎵 Spotify
+##  Spotify
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -44,7 +44,7 @@
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 <div align="center">
   <a href="mailto:sebasmendeza09@gmail.com"> Email</a> |
