@@ -53,6 +53,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b1/fd/b8/b1fdb8e47417da7adaac39ff6df1036f.gif" height="150" alt="coding gif" />
-</p>
+
+<div align="center">
+
+<a href="https://wakatime.com/">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO_WAKATIME&layout=compact&theme=tokyonight&langs_count=8" />
+</a>
+
+</div>
